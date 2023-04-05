@@ -1,0 +1,5 @@
+/expenses-client/node_modules
+/expenses-server/node_modules
+
+/expenses-server/dist
+/expenses-server/package-lock.json

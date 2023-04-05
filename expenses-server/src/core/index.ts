@@ -1,0 +1,1 @@
+export { Expenses } from './entities/expenses.entity'
